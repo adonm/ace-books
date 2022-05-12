@@ -10,3 +10,4 @@ Books/podcasts I liked reading/listening too
  - [Parable of the Talents - Octavia E. Butler - 1998](https://en.m.wikipedia.org/wiki/Parable_of_the_Talents_(novel))
  - [Patternist Series - Octavia E. Butler - 1976 to 1984](https://en.m.wikipedia.org/wiki/Patternist_series)
  - [Sam Hughes - Ra - 2011](https://qntm.org/ra)
+ - [Seveneves - Neal Stephenson - 2015](https://en.wikipedia.org/wiki/Seveneves)
